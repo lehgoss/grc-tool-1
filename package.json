@@ -1,0 +1,19 @@
+{
+  "name": "grc-engine-v1.0",
+  "version": "1.0.0",
+  "description": "lab pour la création d'un outill d'assessment et de classification d'assets d'un smsi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lehgoss/grc-tool-1.git"
+  },
+  "author": "Emmanuel Gosse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lehgoss/grc-tool-1/issues"
+  },
+  "homepage": "https://github.com/lehgoss/grc-tool-1#readme"
+}
